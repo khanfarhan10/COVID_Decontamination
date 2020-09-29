@@ -1,13 +1,13 @@
-# **DETAILED PROJECT DESCRIPTION**
+# DETAILED PROJECT DESCRIPTION
 
-## **Project Objectives:**
+## Project Objectives:
 
 -   To design an Electrical System for COVID-19 Decontamination for
     Industrial & Domestic purposes.
 
 -   To enhance indoor air quality to nullify any virus agents.
 
-## **Project Deliverables:**
+## Project Deliverables:
 
 -   Fabricated Prototype of Installable Components in HVAC Systems such
     as Air Purifiers, Air Conditioners that act as a virus filter.
@@ -22,8 +22,8 @@
 
 -   Project Report with detailed diagrams and execution photographs of
     the suggested prototype.
-
-**[Abstract :]**
+    
+## Abstract :
 
 This project aims at modifying existing HVAC Systems to install
 filtration components for COVID-19 disinfection by the theory of
@@ -35,12 +35,12 @@ some charged dipolar proteins.
 Apart from inventing new systems, this research will attempt
 modifications to already existing systems in an inexpensive manner.
 
-**[Prerequisite Courses :]{.underline}**
+## Prerequisite Courses :
 
 PW-EE 781 - Project stage-I, ME 604A - Refrigeration and Air
 Conditioning, PC-EE 303- Electromagnetic Field Theory.
 
-**[Need for this Project:]{.underline}**
+## Need for this Project:
 
 • The COVID-19 pandemic is growing exponentially and as people are
 spending more time indoors, proper methods of filter designs are
@@ -72,14 +72,14 @@ to the system and can be used to enhance indoor air quality.
 into different air purification technologies and can help prevent viral
 infections in the future, should the need/requirement arise.
 
-**[Status of the work done:]{.underline}**
+## Status of the work done:
 
 Attempts to eliminate the novel coronavirus have been made but none of
 them proposes complete rejection of the virus with 100% efficiency. Our
 research proposes an idea that is fully resistant to any viral infection
 in the air particles and is aimed at Indoor Air Quality Improvement.
 
-**[Detailed Methodology:]{.underline}**
+## Detailed Methodology:
 
 Every single virus has some dipolar charges associated with its protein
 fibers and this can also be used against the virus itself with the help
@@ -90,17 +90,14 @@ filtering systems and replace them with electrical systems that
 eliminate viruses by the principle of charge induction with the help of
 mutually perpendicular Electrical and Magnetic Fields.
 
-![](./Covid_Decontamination/media/image1.jpeg){width="3.5118055555555556in"
-height="3.3333333333333335in"}
+![](./Covid_Decontamination/media/image1.jpeg)
 
 **Fig.1 Visualization of the novel coronavirus on a microscope**
 
-*Image Source*: StatNews^\[1\]^
+*Image Source*: StatNews<sup>[1]</sup>
 
-![ISPG1](./Covid_Decontamination/media/image2.png){width="6.257638888888889in"
-height="0.9576388888888889in"}
-
-*Image Source*: Coronavirus envelope protein: Current knowledge^\[2\]^
+![ISPG1](./Covid_Decontamination/media/image2.png)
+*Image Source*: Coronavirus envelope protein: Current knowledge<sup>[2]</sup>
 ======================================================================
 
 **Fig. 2 Visual Interpretation of the coronavirus Protein Chain Polymers
@@ -111,7 +108,7 @@ consists of negatively charged amino acids, the transmembrane domain
 positively charged Amino Acids. Amino acid properties are indicated:
 hydrophobic (red), hydrophilic (blue), polar, charged (asterisks).
 
-**[Overview and Operating Principle Involved:]{.underline}**
+## Overview and Operating Principle Involved:
 
 In the proposed system, intake air is sent to a filtration unit where
 the air is divided into a streamlined beam-like flow with the help of a
@@ -121,8 +118,7 @@ particles at this portion of the system.
 
 Mathematically,
 
-![](./Covid_Decontamination/media/image3.png){width="1.3652777777777778in"
-height="0.43472222222222223in"}
+![](./Covid_Decontamination/media/image3.png)
 
 where,
 
@@ -138,10 +134,9 @@ h=Elevation of the Filtration Unit
 
 k=Some Arbitrary Constant
 
-![main-qimg-2af6d68b76f3b3c37e4d501b86d10eb2](./Covid_Decontamination/media/image4.png){width="4.370138888888889in"
-height="3.0569444444444445in"}
+![main-qimg-2af6d68b76f3b3c37e4d501b86d10eb2](./Covid_Decontamination/media/image4.png)
 
-*Image Source:* Quora^\[3\]^
+*Image Source:* Quora<sup>[3]</sup>
 
 **Fig 3. Bernoulli's Theorem:** To vary the output velocity (v~2~) of
 the fluid, the output pressure (P~2~) needs to get adjusted accordingly.
@@ -150,14 +145,11 @@ is done by using a pressure valve.
 
 This equation can be further simplified as,
 
-![](./Covid_Decontamination/media/image5.png){width="3.2784722222222222in"
-height="0.5388888888888889in"}
+![](./Covid_Decontamination/media/image5.png)
 
-![](./Covid_Decontamination/media/image5.png){width="3.2784722222222222in"
-height="0.5388888888888889in"}
+![](./Covid_Decontamination/media/image5.png)
 
-![](./Covid_Decontamination/media/image6.png){width="2.1125in"
-height="0.5388888888888889in"}
+![](./Covid_Decontamination/media/image6.png)
 
 (Assuming elevation is same, h1=h2)
 
@@ -174,11 +166,10 @@ Now, the virus particles which basically consist of protein chain
 polymers and are dipoles can be exposed to mutually perpendicular
 electrical and magnetic fields.
 
-![ISPG3](./Covid_Decontamination/media/image7.png){width="6.252777777777778in"
-height="3.4506944444444443in"}
+![ISPG3](./Covid_Decontamination/media/image7.png)
 
 *Image Source:* Motion of an electric dipole in a static electromagnetic
-field^\[4\]^
+field<sup>[4]</sup>
 
 **Fig 4. Schematic Diagram of a Molecular Polarizer:** Two horizontal
 molecular polarizers P1 and P2 sandwich a region of crossed magnetic and
@@ -188,28 +179,21 @@ entering the device with a translation velocity at the +x direction.
 
 This dipole when experiencing mutually perpendicular Electric and
 Magnetic fields, begins to rotate due to an induced Torque (
-![](./Covid_Decontamination/media/image8.wmf){width="0.17569444444444443in"
-height="0.2152777777777778in"}), given by the mathematical equation,
+![](./Covid_Decontamination/media/image8.wmf)), given by the mathematical equation,
 
-![](./Covid_Decontamination/media/image9.wmf){width="1.3125in"
-height="0.2604166666666667in"}
+![](./Covid_Decontamination/media/image9.wmf)
 
 where,
 
-![](./Covid_Decontamination/media/image8.wmf){width="0.17569444444444443in"
-height="0.2152777777777778in"}=Net Torque acting on the dipole P
+![](./Covid_Decontamination/media/image8.wmf)=Net Torque acting on the dipole P
 
-![](./Covid_Decontamination/media/image10.wmf){width="0.15625in"
-height="0.21875in"}= Dipole Moment of the dipole P
+![](./Covid_Decontamination/media/image10.wmf)= Dipole Moment of the dipole P
 
-![](./Covid_Decontamination/media/image11.wmf){width="0.15625in"
-height="0.21875in"}= Applied Electric Field to the Dipole P
+![](./Covid_Decontamination/media/image11.wmf)= Applied Electric Field to the Dipole P
 
-![](./Covid_Decontamination/media/image12.wmf){width="0.15625in"
-height="0.21875in"}= Applied Magnetic Field to the Dipole P &
+![](./Covid_Decontamination/media/image12.wmf)= Applied Magnetic Field to the Dipole P &
 
-![](./Covid_Decontamination/media/image13.wmf){width="0.13541666666666666in"
-height="0.1875in"}= Translational Velocity of the Dipole P
+![](./Covid_Decontamination/media/image13.wmf)= Translational Velocity of the Dipole P
 
 Hence, a suitable static electromagnetic field is generated across the
 passing air through the Filtration Unit which screens the coronavirus
@@ -227,7 +211,7 @@ After extraction, these virus agents are sent to a collector, where the
 virus is stored till it becomes inactive or it is destroyed using some
 chemicals. This process is explained in detail below.
 
-**[Components Required:]{.underline}**
+## Components Required:
 
 • Air Purification System -- Basic Initial System that purifies air
 using HEPA Filters. This can be any preliminary system such as Air
@@ -251,7 +235,7 @@ Supply.
 • Output Pressure Valve- To control and modify the output velocity of
 the air to be fed into the classical HEPA system.
 
-**[Integration into existing HVAC Systems:]{.underline}**
+## Integration into existing HVAC Systems:
 
 This project aims at modifying existing HVAC Systems to install
 filtration components for COVID-19 disinfection by the theory of
@@ -266,15 +250,14 @@ schematic diagram for the setup used in collaboration with the existing
 HVAC Systems. In the figure below in place of the normal air filter, we
 will use our proposed air filter with the default air filtration system.
 
-![](./Covid_Decontamination/media/image14.jpeg){width="3.28125in"
-height="4.154166666666667in"}
+![](./Covid_Decontamination/media/image14.jpeg)
 
 **Fig 5. Schematic Diagram of the Proposed System:** The proposed filter
 will not change the working dynamics of the existing classical systems;
 instead it will attempt to be installed in these systems with suitable
 modifications.
 
-**[Future Scope and Research:]{.underline}**
+## Future Scope and Research:
 
 The major disadvantage of the methodology mentioned in the project is
 that the coronavirus cells are aggregated in the collector and remain
@@ -292,7 +275,7 @@ dangerous to handle itself.
 However, administering the cleansing of the collector can be done using
 many techniques but requires safety precautions and can be done using
 some chemical compounds through suitable reactions for virus
-destruction^\[5\]^. Some of the methods are:
+destruction<sup>[5]</sup>. Some of the methods are:
 
 1.  Using 0.1% Sodium Hypochlorite Solution (NaClO-Cl~2~ Bleach
     Solution) or 0.5% Hydrogen Peroxide Solution (H~2~O~2~) to oxidize
@@ -301,21 +284,21 @@ destruction^\[5\]^. Some of the methods are:
 2.  Using 70% Alcohol Solution (Isopropanol) to dissolve virus fat
     layers and damage virus protein structures.
 
-**[Authors with Contact Details]{.underline}**
+## Authors with Contact Details :
 
 -   Rounik Roy, Mob.: 9609003695,\
     Mail ID:
-    [[rounikroy72\@gmail.com]{.underline}](mailto:kundutiyasa1999@gmail.com)
+    [[rounikroy72\@gmail.com]](mailto:rounikroy72@gmail.com)
 
 -   Namrata Das, Mob.: 9679166333,\
     Mail ID:
-    [[namratads.blg\@gmail.com]{.underline}](mailto:namratads.blg@gmail.com)
+    [[namratads.blg\@gmail.com]](mailto:namratads.blg@gmail.com)
 
 -   Farhan Hai Khan, Mob.: 746402755,\
     Mail ID:
-    [[njrfarhandasilva10\@gmail.com]{.underline}](mailto:njrfarhandasilva10@gmail.com)
+    [[njrfarhandasilva10\@gmail.com]](mailto:njrfarhandasilva10@gmail.com)
 
-**[Review and References:]{.underline}**
+Review and References:
 
 \[1\] Observed Coronavirus Particles under a Microscope, Highly
 Magnified, Statnews.
@@ -386,7 +369,7 @@ Appl. Phys Vol: 19:8, p.p. 698-708. osti.gov/etdeweb/biblio/6299703
 electrochemical immunosensor for label-free detection of Zika-virus
 protein. *Sci Rep* 8, 9700 (2018). doi.org/10.1038/s41598-018-28035-3
 
-**[International Status Review]{.underline}**
+## International Status Review
 
 1\. Comprehensive Structure of the Coronavirus Agent:
 
