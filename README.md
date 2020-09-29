@@ -98,7 +98,6 @@ mutually perpendicular Electrical and Magnetic Fields.
 
 ![ISPG1](./Covid_Decontamination/media/image2.png)
 *Image Source*: Coronavirus envelope protein: Current knowledge<sup>[2]</sup>
-======================================================================
 
 **Fig. 2 Visual Interpretation of the coronavirus Protein Chain Polymers
 as Electric Dipoles:** Amino Acid Sequence and Domains of the SARS-CoV E
@@ -298,7 +297,7 @@ destruction<sup>[5]</sup>. Some of the methods are:
     Mail ID:
     [[njrfarhandasilva10\@gmail.com]](mailto:njrfarhandasilva10@gmail.com)
 
-Review and References:
+## Review and References:
 
 \[1\] Observed Coronavirus Particles under a Microscope, Highly
 Magnified, Statnews.
@@ -331,7 +330,7 @@ interference experiment with electrons Am. J. Phys. 75, 1053--1055
 Filter: HEPA and ULPA Types, Particulate Matter Size and AED.
 [[https://www3.epa.gov/ttncatc1/cica/files/ff-hepa.pdf]{.underline}](https://www3.epa.gov/ttncatc1/cica/files/ff-hepa.pdf)
 
-**[National Status Review]{.underline}**
+## National Status Review :
 
 1.  Dipole Orientation in Molecular Proteins: Insights.
 
