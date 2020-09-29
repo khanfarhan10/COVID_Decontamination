@@ -1,13 +1,13 @@
-**DETAILED PROJECT DESCRIPTION**
+# **DETAILED PROJECT DESCRIPTION**
 
-**Project Objectives:**
+## **Project Objectives:**
 
 -   To design an Electrical System for COVID-19 Decontamination for
     Industrial & Domestic purposes.
 
 -   To enhance indoor air quality to nullify any virus agents.
 
-**Project Deliverables:**
+## **Project Deliverables:**
 
 -   Fabricated Prototype of Installable Components in HVAC Systems such
     as Air Purifiers, Air Conditioners that act as a virus filter.
@@ -23,7 +23,7 @@
 -   Project Report with detailed diagrams and execution photographs of
     the suggested prototype.
 
-**[Abstract :]{.underline}**
+**[Abstract :]**
 
 This project aims at modifying existing HVAC Systems to install
 filtration components for COVID-19 disinfection by the theory of
